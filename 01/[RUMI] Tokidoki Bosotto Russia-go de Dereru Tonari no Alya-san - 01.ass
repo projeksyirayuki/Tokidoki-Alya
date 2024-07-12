@@ -14,7 +14,7 @@ PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
-Active Line: 400
+Active Line: 422
 Audio File: [ASW] Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san - 01 [1080p HEVC][7397DC5D].mkv
 Video File: [ASW] Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san - 01 [1080p HEVC][7397DC5D].mkv
 Last Style Storage: Jawi
@@ -42,6 +42,7 @@ Style: Mariya,Clear Sans,75,&H00FFFFFF,&H000000FF,&H00132952,&H00414773,-1,0,0,0
 Style: Masachika - Yuki,Clear Sans,75,&H00FFFFFF,&H000000FF,&H00212142,&H00394C7B,-1,0,0,0,100,100,0,0,1,3.8,1.2,2,200,200,57,1
 Style: لالي,NKL Dubai,75,&H00FFFFFF,&H000000FF,&H005C311C,&HA0574162,-1,0,0,0,125,125,0,0,1,3.6,1.5,2,200,200,50,1
 Style: Rubi 2,FOT-ニューシネマB Std D,75,&H00FFFFFF,&H000000FF,&H000D0F0E,&H00000000,-1,0,0,0,100,100,0,0,1,3,0.2,2,195,195,150,1
+Style: Gadis Rusia,Clear Sans,75,&H00FFFFFF,&H000000FF,&H007F554B,&H00E5D6B3,-1,0,0,0,100,100,0,0,1,3.8,1.2,2,200,200,57,1
  
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -93,12 +94,12 @@ Dialogue: 0,0:02:19.22,0:02:23.55,Masachika - Yuki,MASACHIKA,0,0,0,,...dikatakan
 Dialogue: 0,0:02:23.55,0:02:27.21,Alya,ALYA,0,0,0,,Maaflah, bodoh yang sudah tidak terselamatkan.
 Dialogue: 0,0:02:27.21,0:02:29.83,Masachika - Yuki,MASACHIKA,0,0,0,,Alya-san kita hari ini lain macam, ya.
 Dialogue: 0,0:02:33.19,0:02:34.63,Alya,ALYA,0,0,0,,Милашка.
-Dialogue: 0,0:02:33.19,0:02:34.63,Rubi,ALYA,0,0,0,,{\3c&H5C311C&\4c&H574162&\pos(950,960}Comelnya.
+Comment: 0,0:02:33.19,0:02:34.63,Rubi,ALYA,0,0,0,,{\3c&H5C311C&\4c&H574162&\pos(950,960}Comelnya.
 Dialogue: 0,0:02:36.68,0:02:37.54,Alya,ALYA,0,0,0,,Kenapa?
 Dialogue: 0,0:02:37.84,0:02:40.29,Masachika - Yuki,MASACHIKA,0,0,0,,Taklah, kau cakap apa?
 Dialogue: 0,0:02:40.29,0:02:41.40,Alya,ALYA,0,0,0,,Tak ada apalah.
 Dialogue: 0,0:02:41.40,0:02:43.90,Alya,ALYA,0,0,0,,Saya cuma cakap awak ni "memalukan".
-Dialogue: 0,0:02:41.40,0:02:43.90,Rubi,ALYA,0,0,0,,{\3c&H5C311C&\4c&H574162&\pos(1290,960)}cтыдно
+Comment: 0,0:02:41.40,0:02:43.90,Rubi,ALYA,0,0,0,,{\3c&H5C311C&\4c&H574162&\pos(1290,960)}cтыдно
 Dialogue: 0,0:02:43.90,0:02:45.29,Masachika - Yuki,MASACHIKA,0,0,0,,Maaflah, ya...
 Dialogue: 1,0:02:46.63,0:02:47.53,Masachika - Yuki,MASACHIKA,0,0,0,,Aik?
 Dialogue: 1,0:02:47.53,0:02:48.60,Alya,ALYA,0,0,0,,Kenapa?
@@ -300,31 +301,31 @@ Dialogue: 1,0:14:19.08,0:14:20.08,Rubi 2,KATA BANTU,0,0,0,,{\q2\bord0\blur0.6\4a
 Dialogue: 0,0:14:19.08,0:14:20.08,Masachika - Yuki,MASACHIKA,0,0,0,,{\an8}Эй!
 Dialogue: 0,0:14:21.46,0:14:22.71,Rubi 2,KATA BANTU,0,0,0,,{\q2\blur0.6\c&H1B1A19&}Masachka!
 Dialogue: 1,0:14:21.46,0:14:22.71,Rubi 2,KATA BANTU,0,0,0,,{\q2\bord0\blur0.6\4a&HFF&}Masachka!
-Dialogue: 0,0:14:21.46,0:14:22.71,Utama,GADIS RUSIA,0,0,0,,{\an8}Масачка!{*tukar warna}
+Dialogue: 0,0:14:21.46,0:14:22.71,Gadis Rusia,GADIS RUSIA,0,0,0,,{\an8}Масачка!
 Dialogue: 0,0:14:23.21,0:14:25.46,Rubi 2,KATA BANTU,0,0,0,,{\q2\blur0.6\c&H1B1A19&}Tak, nama saya Masachika lah.
 Dialogue: 1,0:14:23.21,0:14:25.46,Rubi 2,KATA BANTU,0,0,0,,{\q2\bord0\blur0.6\4a&HFF&}Tak, nama saya Masachika lah.
 Dialogue: 1,0:14:23.21,0:14:25.46,Masachika - Yuki,MASACHIKA,0,0,0,,{\an8}Ну, я знаю, что я Масатика.
 Dialogue: 0,0:14:26.21,0:14:26.59,Rubi 2,GADIS RUSIA,0,0,0,,{\q2\blur0.6\c&H1B1A19&}Hihi
 Dialogue: 1,0:14:26.21,0:14:26.59,Rubi 2,GADIS RUSIA,0,0,0,,{\q2\bord0\blur0.6\4a&HFF&}Hihi
-Dialogue: 0,0:14:26.21,0:14:26.59,Utama,GADIS RUSIA,0,0,0,,{\an8}Хехе.{*tukar warna}
+Dialogue: 0,0:14:26.21,0:14:26.59,Gadis Rusia,GADIS RUSIA,0,0,0,,{\an8}Хехе.
 Dialogue: 0,0:14:27.84,0:14:30.72,Rubi 2,KATA BANTU,0,0,0,,{\q2\blur0.6\c&H1B1A19&}Masachika! Naiklah sini! 
 Dialogue: 1,0:14:27.84,0:14:30.72,Rubi 2,KATA BANTU,0,0,0,,{\q2\bord0\blur0.6\4a&HFF&}Masachika! Naiklah sini!
 Dialogue: 1,0:14:27.84,0:14:30.72,Utama,GADIS RUSIA,0,0,0,,{\an8}Масатика! Поднимайся сюда!
 Dialogue: 0,0:14:34.97,0:14:37.23,Rubi 2,KATA BANTU,0,0,0,,{\q2\blur0.6\c&H1B1A19&}Tengok tu, matahari terbenam!
 Dialogue: 1,0:14:34.97,0:14:37.23,Rubi 2,KATA BANTU,0,0,0,,{\q2\bord0\blur0.6\4a&HFF&}Tengok tu, matahari terbenam!
-Dialogue: 0,0:14:34.97,0:14:37.23,Utama,GADIS RUSIA,0,0,0,,{\an8}Посмотри, какой закат!{*tukar warna}
+Dialogue: 0,0:14:34.97,0:14:37.23,Gadis Rusia,GADIS RUSIA,0,0,0,,{\an8}Посмотри, какой закат!
 Dialogue: 0,0:14:37.60,0:14:40.60,Rubi 2,KATA BANTU,0,0,0,,{\q2\blur0.6\c&H1B1A19&}Wah! Can... Can..?
 Dialogue: 1,0:14:37.60,0:14:40.60,Rubi 2,KATA BANTU,0,0,0,,{\q2\bord0\blur0.6\4a&HFF&}Wah! Can... Can..?
 Dialogue: 0,0:14:37.60,0:14:40.60,Masachika - Yuki,MASACHIKA,0,0,0,,{\an8}Ух ты! Кра… Кра…
 Dialogue: 0,0:14:40.98,0:14:41.73,Rubi 2,KATA BANTU,0,0,0,,{\q2\blur0.6\c&H1B1A19&}Cantik.
 Dialogue: 1,0:14:40.98,0:14:41.73,Rubi 2,KATA BANTU,0,0,0,,{\q2\bord0\blur0.6\4a&HFF&}Cantik.
-Dialogue: 0,0:14:40.98,0:14:41.73,Utama,GADIS RUSIA,0,0,0,,{\an8}Красиво. {* tukar warna}
+Dialogue: 0,0:14:40.98,0:14:41.73,Gadis Rusia,GADIS RUSIA,0,0,0,,{\an8}Красиво. 
 Dialogue: 0,0:14:41.86,0:14:43.15,Rubi 2,KATA BANTU,0,0,0,,{\q2\blur0.6\c&H1B1A19&}Cantik.
 Dialogue: 1,0:14:41.86,0:14:43.15,Rubi 2,KATA BANTU,0,0,0,,{\q2\bord0\blur0.6\4a&HFF&}Cantik.
 Dialogue: 0,0:14:41.86,0:14:43.15,Masachika - Yuki,SIGN,0,0,0,,{\an8}Красиво.
 Dialogue: 0,0:14:54.24,0:14:57.00,Rubi 2,KATA BANTU,0,0,0,,{\q2\blur0.6\c&H1B1A19&}Baiklah, Masachika. Jumpa lagi!
 Dialogue: 1,0:14:54.24,0:14:57.00,Rubi 2,KATA BANTU,0,0,0,,{\q2\bord0\blur0.6\4a&HFF&}Baiklah, Masachika. Jumpa lagi!
-Dialogue: 0,0:14:54.24,0:14:57.00,Utama,GADIS RUSIA,0,0,0,,{\an8}Ну ладно, Масатика. До завтра!{*tukar}
+Dialogue: 0,0:14:54.24,0:14:57.00,Gadis Rusia,GADIS RUSIA,0,0,0,,{\an8}Ну ладно, Масатика. До завтра!
 Dialogue: 0,0:14:57.50,0:14:58.25,Rubi 2,KATA BANTU,0,0,0,,{\q2\blur0.6\c&H1B1A19&}Jumpa lagi!
 Dialogue: 1,0:14:57.50,0:14:58.25,Rubi 2,KATA BANTU,0,0,0,,{\q2\bord0\blur0.6\4a&HFF&}Jumpa lagi!
 Dialogue: 0,0:14:57.50,0:14:58.25,Masachika - Yuki,MASACHIKA,0,0,0,,{\an8}До завтра!
@@ -464,15 +465,17 @@ Dialogue: 0,0:22:18.51,0:22:20.31,Alya,ALYA,0,0,0,,Tolong jangan pakai bahasa pe
 Dialogue: 0,0:22:20.86,0:22:24.27,Masachika - Yuki,MASACHIKA,0,0,0,,Kau suka bubur kacang kan?\N Selalu nampak kau minum.
 Dialogue: 0,0:22:27.55,0:22:31.08,Alya,ALYA,0,0,0,,Baiklah, saya terima.\NItupun sebab saya haus.
 Dialogue: 0,0:22:31.78,0:22:32.70,Masachika - Yuki,MASACHIKA,0,0,0,,Ada betulnya.
-Dialogue: 0,0:22:35.70,0:22:36.83,Alya,ALYA,0,0,0,,{\an8}Nak sikit?
-Dialogue: 0,0:22:35.70,0:22:36.83,Rubi,ALYA,0,0,0,,{\fsp10\shad0\pos(960,935.038)}А ты хочешь?
-Dialogue: 0,0:22:39.12,0:22:41.96,Masachika - Yuki,MASACHIKA,0,0,0,,{\i1}Tiba-tiba dah masuk adegan ciuman tak langsung?!
+Dialogue: 0,0:22:35.70,0:22:36.83,Rubi 2,KATA BANTU,0,0,0,,{\q2\blur0.6\c&H1B1A19&}Nak sikit?
+Dialogue: 1,0:22:35.70,0:22:36.83,Rubi 2,KATA BANTU,0,0,0,,{\q2\bord0\blur0.6\4a&HFF&}Nak sikit?
+Dialogue: 0,0:22:35.70,0:22:36.83,Alya,ALYA,0,0,0,,{\an8}А ты хочешь?
 Comment: 0,0:22:39.12,0:22:42.52,Masachika - Yuki,MASACHIKA,0,0,0,,{\i1}Tiba-tiba dah masuk adegan ciuman tak langsung?!
+Dialogue: 0,0:22:39.12,0:22:41.96,Masachika - Yuki,MASACHIKA,0,0,0,,{\i1}Tiba-tiba dah masuk adegan ciuman tak langsung?!
 Dialogue: 0,0:22:41.96,0:22:42.52,Masachika - Yuki,MASACHIKA,0,0,0,,{\i1\t(0,100,0.5,\fscx110\fscy110)\q2}Tiba-tiba dah masuk adegan ciuman tak langsung?!
 Dialogue: 0,0:22:42.52,0:22:47.22,Masachika - Yuki,MASACHIKA,0,0,0,,{\i1\fscx110\fscy110}Kalau aku cakap "aku minum, ya?", aku akan dapat ciuman tak langsung?!{;;rasa nak kasi gegar tapi takpe kot, pening pulak nanti}
 Dialogue: 0,0:22:48.52,0:22:50.20,Masachika - Yuki,MASACHIKA,0,0,0,,A-Apa tu?
 Dialogue: 0,0:22:50.88,0:22:54.16,Alya,ALYA,0,0,0,,Saya cuma cakap "sedap sungguh manisan selepas bersenam".
 Dialogue: 0,0:22:54.16,0:22:56.10,Masachika - Yuki,MASACHIKA,0,0,0,,Bukankah biasanya "minuman sejuk"?
-Dialogue: 0,0:22:59.60,0:23:01.98,Alya,ALYA,0,0,0,,{\an8}Dia langsung tak fa~ ham 𝅘𝅥𝅮
-Dialogue: 0,0:22:59.60,0:23:01.98,Rubi,ALYA,0,0,0,,{\fsp9\shad0\pos(960,935.038)}Ничего-то ты не понима~ешь𝅘𝅥𝅮
+Dialogue: 0,0:22:59.60,0:23:01.98,Rubi 2,ALYA,0,0,0,,{\q2\blur0.6\c&H1B1A19&}Dia langsung tak f{\fsp5}a~{\fsp}ham 𝅘𝅥𝅮
+Dialogue: 1,0:22:59.60,0:23:01.98,Rubi 2,ALYA,0,0,0,,{\q2\bord0\blur0.6\4a&HFF&}Dia langsung tak f{\fsp5}a~{\fsp}ham 𝅘𝅥𝅮
+Dialogue: 0,0:22:59.60,0:23:01.98,Alya,ALYA,0,0,0,,{\an8}Ничего-то ты не понима~ешь𝅘𝅥𝅮
 Dialogue: 0,0:23:05.08,0:23:09.40,Masachika - Yuki,MASACHIKA,0,0,0,,{\i1}Aku fahamlah! { ,wei!}
